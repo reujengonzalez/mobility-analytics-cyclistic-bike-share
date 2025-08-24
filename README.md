@@ -1,4 +1,4 @@
-# Mobility Analytics – Cyclistic Bike Share Case Study \[Excel, R, Tableau]
+# Cyclistic Bike Share (Mobility Analytics) \[Excel, R, Tableau]
 
 ## 📌 Overview
 
